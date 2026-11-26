@@ -1,3 +1,5 @@
+<img width="809" height="433" alt="image" src="https://github.com/user-attachments/assets/e4f3ad3f-18f1-48fe-bf59-5d1a9dc9fc61" />
+
 # Pipeline-ETL-de-donn-es-op-rationnelles
 **Projet personnel — Pipeline ETL de données opérationnelles (PowerShell & SQL)**
 
