@@ -1,4 +1,5 @@
-<img width="778" height="437" alt="image" src="https://github.com/user-attachments/assets/845ceff2-098c-4589-a373-341156af98b5" />
+<img width="770" height="435" alt="image" src="https://github.com/user-attachments/assets/a19ec0a8-ead7-4c9e-91ad-3825932abc39" />
+
 
 
 # Pipeline-ETL-de-donn-es-op-rationnelles
